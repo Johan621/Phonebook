@@ -28,6 +28,7 @@ Choose any one option provided below:
 5. Exit
 ```
 To use my project on your own system use the below command-lines on your local text-editor like Vscode
+
 **Clone the repo**
 ```bash
 git clone https://github.com/Johan621/Phonebook.git
