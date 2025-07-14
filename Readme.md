@@ -26,14 +26,14 @@ Choose any one option provided below:
 3. Delete Contacts
 4. Display Contacts
 5. Exit
-
+```
 To use my project on your own system use the below command-lines on your local text-editor like Vscode
-
 **Clone the repo**
-
+```bash
 git clone https://github.com/Johan621/Phonebook.git
 cd phonebook
-
+```
 **Run the script on text-editor**
-
+```bash
 python phonebook.py
+```
